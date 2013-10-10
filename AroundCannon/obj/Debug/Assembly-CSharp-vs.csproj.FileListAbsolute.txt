@@ -1,0 +1,10 @@
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\Temp\bin\Debug\UnityEditor.dll
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\Temp\bin\Debug\UnityEngine.dll
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\Temp\bin\Debug\nunit.framework.dll
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\obj\Debug\Assembly-CSharp.dll
+C:\Users\takuya\Documents\Unity\Game\AroundCannon\obj\Debug\Assembly-CSharp.pdb
